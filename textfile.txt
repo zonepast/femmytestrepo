@@ -1,0 +1,8 @@
+ls
+clear
+mkdir
+cd
+touch
+git status
+git init
+git add
